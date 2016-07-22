@@ -1,0 +1,66 @@
+---
+title: Schedule
+layout: main
+---
+
+<p>
+  This schedule should be considered tentative,
+  at least until it actually takes place!
+  Consult the <a href="https://github.com/cs2043-sp16/lecture-demos">lecture
+   demos repository</a> for in-class exercises, where applicable.
+</p>
+
+<div class="table-responsive">
+  <table class="table table-striped">
+    <colgroup>
+      <col class="col-xs-1">      
+      <col class="col-xs-1">
+      <col class="col-xs-2">      
+      <col class="col-xs-4">
+      <col class="col-xs-4">
+    </colgroup>
+    <thead>
+      <tr>
+        <th>Week</th>
+        <th>Day</th>
+        <th>Date</th>        
+        <th>Description</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    {% for lec in site.data.lectures %}
+    <tr{% if lec.break %} class="info"{% endif %}>
+      {% assign day = lec.date | date: "%a" %}
+      {% assign week = lec.week | week: "%d" %}
+      <th>{% if week %}{{ week }}{% endif %}</th>
+      <td>{{ day }},</td>
+      <td>{{ lec.date | date: "%b %d" }}</td>      
+      {% if lec.break %}
+      <td>{{ lec.break }}</td>
+      {% else %}
+      <td>{% if lec.info %}{{ lec.info | markdownify }}{% endif %}</td>
+      {% endif %}
+      <td>
+        {% if lec.hw %}
+          <b>HW</b>:
+          <ul>
+            {% for item in lec.hw %}<li>{{ item }}</li>{% endfor %}
+          </ul>
+        {% endif %}
+        {% if lec.demo %}
+          <b>Demos</b>:
+          <ul>
+            {% for item in lec.demo %}<li>{{ item }}</li>{% endfor %}
+          </ul>
+        {% endif %}
+        {% if lec.misc %}
+          <b>Misc</b>:
+          <ul>
+            {% for item in lec.misc %}<li>{{ item }}</li>{% endfor %}
+          </ul>
+        {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>

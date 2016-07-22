@@ -1,0 +1,4 @@
+Authors ordered by first contribution:
+
+David Bindel <bindel@cs.cornell.edu>
+Stephen McDowell <sjm324@cornell.edu>

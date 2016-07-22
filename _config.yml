@@ -1,0 +1,13 @@
+title: CS 60050
+description: Course Page for CS 60050
+author: Pabitra Mitra
+email: pabitra@cse.iitlgp.ernet.in
+baseurl: "/"
+url: "http://cs60050.github.io/"
+
+encoding: utf-8
+timezone: India/Kolkata
+
+exclude: ["Rakefile"]
+
+markdown: kramdown

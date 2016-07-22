@@ -1,0 +1,11 @@
+---
+title: Posts
+layout: main
+---
+
+{% for post in site.posts limit:10 %}
+<p class="hanging-indent">
+  <strong>{{ post.date | date_to_string }}</strong> &raquo;
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    {{ post.excerpt }}
+{% endfor %}

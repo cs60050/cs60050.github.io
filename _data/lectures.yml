@@ -1,0 +1,138 @@
+# ==================
+# Week 1
+#
+# -
+#   date: 2016-01-27
+#   info: <a href="slides/lecture01/lecture01.pdf" target="_blank">01 - Introduction</a>
+#   week: 1
+#   hw:
+#     - HW0 out
+#   demo:
+#     - Virtual Machine creation / usage
+# -
+#   date: 2016-01-29
+#   info: <a href="slides/lecture02/lecture02.pdf" target="_blank">02 - The Unix file system</a>
+#   demo:
+#     - Creating a git repository
+# #
+# # ==================
+# # Week 2
+# #
+# -
+#   date: 2016-02-01
+#   info: <a href="slides/lecture03/lecture03.pdf" target="_blank">03 - Manipulating Files and Using Git</a>
+#   hw:
+#     - HW0 due
+#   week: 2
+#   misc:
+#     - Our first lecture demo!
+# -
+#   date: 2016-02-03
+#   info: <a href="slides/lecture04/lecture04.pdf" target="_blank">04 - More Files, Chaining Commands, and your First(?) Git Repository</a>
+#   demo:
+#     - Forking a repository demo
+#   misc:
+#     - Last day to add.
+# -
+#   date: 2016-02-05
+#   info: <a href="slides/lecture05/lecture05.pdf" target="_blank">05 - Expansions and Regular Expressions</a>
+#   hw:
+#     - HW1 out
+#   demo:
+#     - Basic text processing.
+#   misc:
+#     - Contains two of the most useful commands you will ever use.
+# #
+# # ==================
+# # Week 3
+# #
+# -
+#   date: 2016-02-08
+#   info: <a href="slides/lecture06/lecture06.pdf" target="_blank">06 - Intro to &#123;Scripting, Customizing, Text Editors&#125;</a>
+#   week: 3
+#   demo:
+#     - Customize your terminal and VIM.
+# -
+#   date: 2016-02-10
+#   info: <a href="slides/lecture07/lecture07.pdf" target="_blank">07 - Processes and Jobs</a>
+#   misc:
+#     - Last day to drop.
+#   demo:
+#     - Mastering vlc in the terminal.
+# -
+#   date: 2016-02-12
+#   info: <a href="slides/lecture08/lecture08.pdf" target="_blank">08 - Superlative Streams</a>
+#   hw:
+#     - HW1 due.
+#   demo:
+#     - Sed and html generation.
+# #
+# # ==================
+# # Week 4
+# #
+# -
+#   date: 2016-02-15
+#   break: February Break
+#   week: 4
+# -
+#   date: 2016-02-17
+#   info: '09 - Shell scripting I'
+# -
+#   date: 2016-02-19
+#   info: '10 - Shell scripting II'
+# #
+# # ==================
+# # Week 5
+# #
+# -
+#   date: 2016-02-22
+#   info: '11 - Awk and gawk'
+#   week: 5
+# -
+#   date: 2016-02-24
+#   info: '12 - Python I'
+# -
+#   date: 2016-02-26
+#   info: '13 - Python II'
+# #
+# # ==================
+# # Week 6
+# #
+# -
+#   date: 2016-02-29
+#   info: '14 - Sockets and automation'
+#   week: 6
+# -
+#   date: 2016-03-02
+#   info: '15 - Bash revisited'
+# -
+#   date: 2016-03-04
+#   info: '16 - Make, version control revisited'
+# #
+# # ==================
+# # Week 7
+# #
+# -
+#   date: 2016-03-07
+#   info: '17 - Package management'
+#   week: 7
+# -
+#   date: 2016-03-09
+#   info: '18 - Conclusions'
+# -
+#   date: 2016-03-11
+#   info: 'Additional Material: TBD'
+# #
+# # ==================
+# # Week 8
+# #
+# -
+#   date: 2016-03-14
+#   info: 'No class'
+#   week: 8
+# -
+#   date: 2016-03-16
+#   info: 'No class'
+# -
+#   date: 2016-03-18
+#   info: 'No class'

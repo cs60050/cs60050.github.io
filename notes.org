@@ -1,0 +1,45 @@
+* Tasks
+** Add info re cluster setup
+** Add background readings -- SWC stuff
+** Look into quiz framework for reveal.js slide decks?
+
+   https://code.google.com/p/inline-quiz-js/wiki/Examples
+** Comparisons: Etherpad vs Box Notes?
+** DONE Add Intel gift acknowledgement to home page
+   CLOSED: [2015-07-27 Mon 21:33]
+** DONE Add recommended readings -- HPC part of bookshelf
+   CLOSED: [2015-07-27 Mon 21:33]
+** DONE Describe plans re open work
+   CLOSED: [2015-07-27 Mon 21:33]
+** DONE Initial posts
+   CLOSED: [2015-07-27 Mon 21:33]
+* Scribblings
+
+Core principles:
+- We're all learning different things; be mindful of prereqs, but
+  don't panic.
+- It's all public -- be inspired, but cite
+  - I can track the flow of ideas easily enough (so can anyone)
+- Class is for active learning rather than lecture
+  - Bring a laptop!  You'll want it.
+- You'll evaluate yourselves and each other; I'm here as a guide
+
+"Unless there's some special reason, I want all the repositories to be
+public -- the kids have plenty of ways of sharing information without
+us knowing about it so I'd rather try to create a culture of sharing
+with attribution."
+https://github.com/education/teachers/issues/2#issuecomment-46861804
+
+Cite.
+
+We will not look at every line of code, or even most of them.
+
+Repo per project vs repo per course
+
+Point is not to grade you, it is for you to learn.
+
+https://www.insidehighered.com/news/2015/02/19/u-illinois-urbana-champaign-backs-down-legal-threat-against-code-repository
+
+Assignment 0: Pull request against the "who are you?" survey.
+
+Pecha Kucha talks?
