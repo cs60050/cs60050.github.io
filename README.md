@@ -1,7 +1,7 @@
 # cs2043-sp16.github.io
 
 This is the source for the course home page for
-[Cornell CS 2043: Unix Tools and Scripting][cs2043].
+[IITKgp CS 60050: Machine Learning][cs60050].
 Course material is written with [Jekyll][jekyll] and deployed on
 [GitHub Pages][gh-pages].  Styling is based on
 [Twitter Bootstrap][bootstrap], and [reveal.js][reveal] is included as
@@ -12,7 +12,7 @@ Contributions are welcome in the form of Pull Requests.
 This website was adapted from David Bindel's [CS 5220][cs5220] website,
 and was largely just repopulated with the appropriate data.
 
-[cs2043]: http://cs2043-sp16.github.io/
+[cs60050]: http://cs60050.github.io/
 [cs5220]: http://cornell-cs5220-f15.github.io/
 [jekyll]: http://jekyllrb.com/
 [gh-pages]: http://jekyllrb.com/docs/github-pages/
