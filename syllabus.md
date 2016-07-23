@@ -143,7 +143,7 @@ Ambiguity in this regard really does serve you best.
 
 As stated previously, assignments will be due by 5pm on Friday.  This is a hard
 deadline.  However, life happens.  If you happen to need extra time, this is how it
-will work: --> -->
+will work: -->
 
 <!--
   It really shouldn't have been necessary to do this...but markdown tables dont have rules
