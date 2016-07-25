@@ -7,8 +7,6 @@ Course material is written with [Jekyll][jekyll] and deployed on
 [Twitter Bootstrap][bootstrap], and [reveal.js][reveal] is included as
 a submodule to support slide presentations.
 
-Contributions are welcome in the form of Pull Requests.
-
 This website was adapted from David Bindel's [CS 5220][cs5220] website,
 and was largely just repopulated with the appropriate data.
 
